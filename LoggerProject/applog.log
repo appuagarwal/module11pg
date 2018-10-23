@@ -1,0 +1,55 @@
+2018-08-23 14:47:18,220 - TestCalculatorDemo - DEBUG - This is debug Message
+2018-08-23 14:47:18,220 - TestCalculatorDemo - WARN - This is warn Message
+2018-08-23 14:47:18,220 - TestCalculatorDemo - FATAL - This is fatal Message
+2018-08-23 14:47:22,151 - TestCalculatorDemo - INFO - User entered a: 20
+2018-08-23 14:47:23,041 - TestCalculatorDemo - INFO - User entered b: 4
+2018-08-23 14:47:23,041 - TestCalculatorDemo - INFO - c= 5
+2018-08-23 14:49:08,356 - TestCalculatorDemo - DEBUG - This is debug Message
+2018-08-23 14:49:08,356 - TestCalculatorDemo - WARN - This is warn Message
+2018-08-23 14:49:08,356 - TestCalculatorDemo - FATAL - This is fatal Message
+2018-08-23 14:49:20,258 - TestCalculatorDemo - DEBUG - This is debug Message
+2018-08-23 14:49:20,258 - TestCalculatorDemo - WARN - This is warn Message
+2018-08-23 14:49:20,258 - TestCalculatorDemo - FATAL - This is fatal Message
+2018-08-23 14:49:22,676 - TestCalculatorDemo - INFO - User entered a: 20
+2018-08-23 14:49:23,192 - TestCalculatorDemo - INFO - User entered b: 4
+2018-08-23 14:49:23,192 - TestCalculatorDemo - INFO - c= 5
+2018-08-23 14:49:49,884 - TestCalculatorDemo - DEBUG - This is debug Message
+2018-08-23 14:49:49,884 - TestCalculatorDemo - WARN - This is warn Message
+2018-08-23 14:49:49,884 - TestCalculatorDemo - FATAL - This is fatal Message
+2018-08-23 14:49:51,756 - TestCalculatorDemo - INFO - User entered a: 20
+2018-08-23 14:49:53,535 - TestCalculatorDemo - INFO - User entered b: 0
+2018-08-23 14:49:53,535 - TestCalculatorDemo - ERROR - / by zero
+2018-08-23 14:50:42,754 - TestCalculatorDemo - DEBUG - This is debug Message
+2018-08-23 14:50:42,754 - TestCalculatorDemo - WARN - This is warn Message
+2018-08-23 14:50:42,754 - TestCalculatorDemo - FATAL - This is fatal Message
+2018-08-23 14:50:44,658 - TestCalculatorDemo - INFO - User entered a: 20
+2018-08-23 14:50:45,392 - TestCalculatorDemo - INFO - User entered b: 0
+2018-08-23 14:50:45,407 - TestCalculatorDemo - ERROR - / by zero
+2018-08-23 14:51:14,424 - TestCalculatorDemo - DEBUG - This is debug Message
+2018-08-23 14:51:14,424 - TestCalculatorDemo - WARN - This is warn Message
+2018-08-23 14:51:14,424 - TestCalculatorDemo - FATAL - This is fatal Message
+2018-08-23 14:51:20,320 - TestCalculatorDemo - INFO - User entered a: 20
+2018-08-23 14:51:21,367 - TestCalculatorDemo - INFO - User entered b: 0
+2018-08-23 14:51:21,382 - TestCalculatorDemo - ERROR - divisor is 0/ by zero
+2018-08-23 14:53:07,414 - TestCalculatorDemo - DEBUG - This is debug Message
+2018-08-23 14:53:07,414 - TestCalculatorDemo - WARN - This is warn Message
+2018-08-23 14:53:07,414 - TestCalculatorDemo - FATAL - This is fatal Message
+2018-08-23 14:53:13,233 - TestCalculatorDemo - INFO - User entered a: 20
+2018-08-23 14:53:17,290 - TestCalculatorDemo - INFO - User entered b: 2
+2018-08-23 14:53:17,290 - TestCalculatorDemo - INFO - c= 10
+2018-08-23 14:53:32,439 - TestCalculatorDemo - DEBUG - This is debug Message
+2018-08-23 14:53:32,439 - TestCalculatorDemo - WARN - This is warn Message
+2018-08-23 14:53:32,439 - TestCalculatorDemo - FATAL - This is fatal Message
+2018-08-23 14:53:41,409 - TestCalculatorDemo - INFO - User entered a: 10
+2018-08-23 14:53:42,970 - TestCalculatorDemo - INFO - User entered b: 1
+2018-08-23 14:53:42,970 - TestCalculatorDemo - INFO - c= 10
+2018-08-23 14:57:32,179 - TestCalculatorDemo - WARN - This is warn Message
+2018-08-23 14:57:32,179 - TestCalculatorDemo - FATAL - This is fatal Message
+2018-08-23 14:58:32,003 - TestCalculatorDemo - WARN - This is warn Message
+2018-08-23 14:58:32,003 - TestCalculatorDemo - FATAL - This is fatal Message
+2018-08-23 15:09:52,217 - TestCalculatorDemo - WARN - This is warn Message
+2018-08-23 15:09:52,217 - TestCalculatorDemo - FATAL - This is fatal Message
+2018-08-23 15:10:05,010 - TestCalculatorDemo - WARN - This is warn Message
+2018-08-23 15:10:05,010 - TestCalculatorDemo - FATAL - This is fatal Message
+2018-08-23 15:10:46,022 - TestCalculatorDemo - WARN - This is warn Message
+2018-08-23 15:10:46,022 - TestCalculatorDemo - FATAL - This is fatal Message
